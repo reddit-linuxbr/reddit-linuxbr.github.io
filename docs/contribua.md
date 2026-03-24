@@ -70,7 +70,7 @@ cd NOME_DO_PROJETO
 
 Você já tem uma cópia do seu repositório em sua máquina, mas lembra que eu disse que no repositório original caso ele seja atualizado o seu não estará mais? Pois bem, para contornar isso, precisamos adicionar o repositório oficial como "upstream", para isso, rode o comando abaixo:
 ```bash
-git remote add upstream https://github.com/nulljao/linuxbr.git
+git remote add upstream https://github.com/reddit-linuxbr/reddit-linuxbr.github.io.git
 ```
 
 Para confirmar, você pode rodar o comando: git remote -v <br>
