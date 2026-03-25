@@ -77,7 +77,7 @@ export default defineConfig({
         text: 'Artigos',
         collapsible: true,
         items: [
-          { text: 'Qual distro?', link: '/qual-distro' },
+          { text: 'Qual distro escolher?', link: '/qual-distro' },
           // { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'Distros',
             collapsed: true,
