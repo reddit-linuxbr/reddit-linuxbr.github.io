@@ -75,7 +75,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Artigos',
-        collapsible: true,
+        collapsed: true,
         items: [
           { text: 'Qual distro?', link: '/qual-distro' },
           // { text: 'Runtime API Examples', link: '/api-examples' },
@@ -87,7 +87,8 @@ export default defineConfig({
               { text: 'Fedora', link: '/distros/redhat-fedora' },
               { text: 'openSUSE', link: '/distros/opensuse'}
             ]
-          }
+          },
+          { text: 'Links úteis', link: '/links-uteis'}
         ]
       }
     ],
