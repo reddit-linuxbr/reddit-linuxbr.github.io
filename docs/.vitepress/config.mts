@@ -96,7 +96,7 @@ export default defineConfig({
         text: 'Guias',
         collapsed: false,
         items: [
-          { text: 'Qual distro escolher?', link: '/qual-distro' }
+          { text: 'Qual distro escolher?', link: '/guia/qual-distro' }
         ]
       }
     ],

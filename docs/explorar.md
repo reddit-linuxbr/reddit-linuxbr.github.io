@@ -21,5 +21,5 @@ Aqui você encontrará um agregado de dicas/tutoriais e tópicos que possam ser 
 ## Assuntos
 Aqui você encontrará alguns assuntos que comumente estão em discussão e as respostas para esses assuntos quase sempre são as mesmas.
 
-### [Qual distro usar?](qual-distro.md)
+### [Qual distro usar?](/guia/qual-distro.md)
 - Dicas/sugestões de qual distro usar de acordo com alguns cenários.
