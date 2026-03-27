@@ -4,6 +4,8 @@
 
 O projeto será sempre mais forte com a contribuição de todos, para isso, caso queira contribuir conosco, sua contribuição será muito bem vinda. Há basicamente duas formas de contribuir, a primeira e mais indicada envolve um pouco de conhecimento de git e também markdown para editar os conteúdos. A segunda é via abrindo uma "issue" dentro do github do projeto, mas, nessa opção, ficará a cargo de outros usuários lerem e implementarem o que for solicitado, o ideal é se possível fazer pelo primeiro método.
 
+Você pode acessar o nosso [Github](https://github.com/reddit-linuxbr/reddit-linuxbr.github.io/blob/main/CONTRIBUTING.md) que há um artigo sobre como contribuir, mas, recomendamos apenas caso já tenha um pouco de conhecimento em git. Se é seu primeiro contato, talvez valha a pena ler esse artigo e após se familiarizar, partir para o processo do github que exige alguns comandos extras.
+
 ### Método 1 - Pull requests
 
 Algumas das etapas abaixo envolve conhecimento de git, os principais comandos para que consigam colaborar será detalhado no final da página.
