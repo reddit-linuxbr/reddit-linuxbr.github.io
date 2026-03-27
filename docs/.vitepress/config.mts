@@ -76,10 +76,8 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Artigos',
-        collapsed: true,
+        collapsed: false,
         items: [
-          { text: 'Qual distro escolher?', link: '/qual-distro' },
-          // { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'Distros',
             collapsed: true,
             items: [
@@ -89,7 +87,16 @@ export default defineConfig({
               { text: 'openSUSE', link: '/distros/opensuse'}
             ]
           },
+          { text: 'O GNU', link: '/gnu' },
+          { text: 'Tipos de Licença', link: '/tipos-licencas' },
           { text: 'Links úteis', link: '/links-uteis'}
+        ]
+      },
+      {
+        text: 'Guias',
+        collapsed: false,
+        items: [
+          { text: 'Qual distro escolher?', link: '/qual-distro' }
         ]
       }
     ],
@@ -105,7 +112,7 @@ export default defineConfig({
     },
     
     footer: {
-      message: "Made in Brazil by r/linuxbrasil",
+      message: "Feito por e para o r/linuxbrasil",
     },
  
     // mobile config
