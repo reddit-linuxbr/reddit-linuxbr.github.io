@@ -46,9 +46,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     //
     outlineTitle: "Nesta página",
-    outline: {
-      level: [1,2,3,4,5,6]
-    },
+    outline: "deep", 
+      // {
+      // level: [1,2,3,4,5,6]
+    //},
 
     search: {
       provider: 'local'
