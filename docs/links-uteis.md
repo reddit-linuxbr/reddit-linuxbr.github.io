@@ -47,6 +47,12 @@ Conteúdo em inglês
 Um portal com foco em Software de Livre e de Código Aberto (Free and Open Source Software). Tem notícias e tutoriais.<br>
 Conteúdo em inglês
 
+**OMG! Ubuntu**<br>
+[https://www.omgubuntu.co.uk/](https://www.omgubuntu.co.uk/)
+
+Site independente dedicado ao Ubuntu e seu ecossistema. Há conteudos de distros como Mint, Pop!_OS, Zorin OS, Elementary OS, KDE Neon e Bodhi Linux também.<br>
+Conteúdo em inglês.
+
 **LinuxCommand**<br>
 [https://linuxcommand.org/](https://linuxcommand.org/)
 
@@ -55,4 +61,20 @@ Conteúdo em inglês
 
 
 ## Canais do YouTube e Podcasts (Não BR)
+
+**Learn Linux TV**<br>
+[https://www.youtube.com/learnlinuxtv](https://www.youtube.com/learnlinuxtv)
+
+
+*The Linx Experiment***<br>
+[https://www.youtube.com/@TheLinuxEXP](https://www.youtube.com/@TheLinuxEXP)
+
+
+## Outros
+
+**DistroWatch**<br>
+[https://distrowatch.com/](https://distrowatch.com/)
+
+Site com popularidade das distros (dentro do site), exibe as distros com maior ranking de acesso de acordo com o tempo que definir e acessando o conteudo das distros você consegue informações a respeito dela como o SO (Linux, BSD, etc), se é baseada em alguma distro ou é independente, país de origem, arquitetura, DE disponíveis, status, além de informações como site oificial, fórum, galeria de screenshots, lista de pacotes disponíveis, entre outras. Pode ser útil em especial se quiser informações de alguma distro especifica e usar o site como um agregador de informações daquela distro.
+
 
