@@ -18,8 +18,8 @@ Aqui você encontrará um agregado de dicas/tutoriais e tópicos que possam ser 
 
 - O [r/linuxbrasil](https://reddit.com/r/linuxbrasil) é o ponto de encontro para discussão sobre Linux em PT-BR.
 
-## Assuntos
-Aqui você encontrará alguns assuntos que comumente estão em discussão e as respostas para esses assuntos quase sempre são as mesmas.
+## Guias
+Aqui você encontrará alguns guias sobre temas mais frequentes e as respostas para esses assuntos quase sempre são as mesmas.
 
-### [Qual distro usar?](/guia/qual-distro.md)
+### [Qual distro escolher?](/guia/qual-distro.md)
 - Dicas/sugestões de qual distro usar de acordo com alguns cenários.
