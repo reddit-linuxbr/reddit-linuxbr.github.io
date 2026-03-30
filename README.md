@@ -13,8 +13,7 @@ Este repositório contém os arquivos [Markdown](https://www.markdownguide.org/)
 
 ## Contribuição
 
-Nossa comunidade é bem-vinda para contribuir na manutenção e atualização da Megathread. Se você deseja contribuir, siga os seguintes passos:
-
+Nossa comunidade é bem-vinda para contribuir na manutenção e atualização da Megathread. Se você deseja contribuir, siga os passos abaixo ou acesse a página [CONTRIBUTING](./CONTRIBUTING.md)
 1. Entre no github do repositório e faça um fork dele.
 2. Crie uma branch para as alterações.
 3. Faça as edições necessárias no(s) arquivo(s) markdown (extensão .md) que ficam dentro da pasta /docs.
