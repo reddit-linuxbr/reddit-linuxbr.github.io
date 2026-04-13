@@ -78,19 +78,20 @@ export default defineConfig({
         text: 'Artigos',
         collapsed: false,
         items: [
-          { text: 'Distros',
-            collapsed: true,
-            items: [
-              { text: 'Debian', link: '/distros/debian' },
-              { text: 'Arch', link: '/distros/arch' }, 
-              { text: 'Fedora', link: '/distros/redhat-fedora' },
-              { text: 'openSUSE', link: '/distros/opensuse'}
-            ]
-          },
           { text: 'O GNU', link: '/gnu' },
           { text: 'Tipos de Licença', link: '/tipos-licencas' },
           { text: 'Links úteis', link: '/links-uteis'}
-        ]
+        ],
+      },
+      {
+        text: 'Distros',
+        collapsed: false,
+        items: [
+          { text: 'Debian', link: '/distros/debian' },
+          { text: 'Arch', link: '/distros/arch' }, 
+          { text: 'Fedora', link: '/distros/redhat-fedora' },
+          { text: 'openSUSE', link: '/distros/opensuse'}
+        ],
       },
       {
         text: 'Guias',
